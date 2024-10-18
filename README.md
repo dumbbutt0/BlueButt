@@ -83,6 +83,8 @@ Target MAC address: 58:93:E8:09:78:32
 Flooding (58:93:E8:09:78:32) with 4 A2DP connections...
 ```
 
+![direct](/direct.png)
+
 ### 3. **Sniper Mode**
 
 In sniper mode, the program continuously attempts to connect to a target device. Once a successful connection is established, the program immediately floods the device with multiple A2DP connections.
@@ -113,8 +115,8 @@ Flooding (58:93:E8:09:78:32) with 4 A2DP connections...
 ```
 
 In sniper mode, the program will continue retrying until it successfully connects to the target device. You can quit the program anytime by pressing `Ctrl+C`.
- ![scanner](/find.png)
 
+ ![sniper](/snipe.png)
 ### Program Options
 
 - **Number of Flood Connections**: The number of connections the program tries to establish is set by the `num_connections` variable (default is 4). You can modify this variable in the code if you wish to attempt more connections.
