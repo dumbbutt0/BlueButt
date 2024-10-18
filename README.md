@@ -58,6 +58,7 @@ Device found: Headphones (04:B9:E3:69:B6:63)
 Enter the target's MAC address: 58:93:E8:09:78:32
 Flooding (58:93:E8:09:78:32) with 4 A2DP connections...
 ```
+![scanner](/find.png)
 
 ### 2. **Direct Target Mode**
 
@@ -112,6 +113,7 @@ Flooding (58:93:E8:09:78:32) with 4 A2DP connections...
 ```
 
 In sniper mode, the program will continue retrying until it successfully connects to the target device. You can quit the program anytime by pressing `Ctrl+C`.
+ ![scanner](/find.png)
 
 ### Program Options
 
