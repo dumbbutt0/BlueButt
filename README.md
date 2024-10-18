@@ -160,3 +160,5 @@ This project is open-source under the MIT License.
 ## Contributions
 
 Feel free to contribute to this project by submitting pull requests, reporting issues, or suggesting new features.
+
+The main resource used in this in order to push out code is this course [Bluetooth 101](https://people.csail.mit.edu/albert/bluez-intro/index.html "Bluetooth programs")
