@@ -58,7 +58,7 @@ Device found: Headphones (04:B9:E3:69:B6:63)
 Enter the target's MAC address: 58:93:E8:09:78:32
 Flooding (58:93:E8:09:78:32) with 4 A2DP connections...
 ```
-![scanner](/find.png)
+<!--![scanner](/find.png)-->
 
 ### 2. **Direct Target Mode**
 
@@ -83,7 +83,7 @@ Target MAC address: 58:93:E8:09:78:32
 Flooding (58:93:E8:09:78:32) with 4 A2DP connections...
 ```
 
-![direct](/direct.png)
+<!--![direct](/direct.png)-->
 
 ### 3. **Sniper Mode**
 
@@ -116,7 +116,7 @@ Flooding (58:93:E8:09:78:32) with 4 A2DP connections...
 
 In sniper mode, the program will continue retrying until it successfully connects to the target device. You can quit the program anytime by pressing `Ctrl+C`.
 
- ![sniper](/snipe.png)
+ <!--![sniper](/snipe.png)-->
 ### Program Options
 
 - **Number of Flood Connections**: The number of connections the program tries to establish is set by the `num_connections` variable (default is 4). You can modify this variable in the code if you wish to attempt more connections.
